@@ -23,12 +23,8 @@ class Solution {
                 st.push(s.charAt(i));
             }
         }
-        StringBuilder res= new StringBuilder();
-        for(char a:st)
-        {
-            res.append(a);
-        }
-        return res.toString();
+        
+        return st.toString();
     }
 
 }
