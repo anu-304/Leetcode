@@ -1,6 +1,6 @@
 class Solution {
     public int findMin(int[] nums) {
-        int min=Integer.MAX_VALUE;
+        /*int min=Integer.MAX_VALUE;
         for(int i=0;i<nums.length;i++)
         {
             if(nums[i]<min)
@@ -8,6 +8,8 @@ class Solution {
                 min=nums[i];
             }
         }
-        return min;
+        return min;*/
+        Arrays.sort(nums);
+        return nums[0];
     }
 }
