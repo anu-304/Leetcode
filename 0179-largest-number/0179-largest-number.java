@@ -10,11 +10,12 @@ class Solution {
         {
             return "0";
         }
-        StringBuilder s=new StringBuilder();
+        /*StringBuilder s=new StringBuilder();
         for(int i=0 ;i<arr.length;i++)
         {
             s.append(arr[i]);
         }
-        return s.toString();
+        return s.toString();*/
+        return String.join("",arr);
     }
 }
