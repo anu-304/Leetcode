@@ -23,11 +23,13 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/anu-304/Leetcode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/anu-304/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/anu-304/Leetcode/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/anu-304/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/anu-304/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anu-304/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
