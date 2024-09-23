@@ -30,6 +30,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/anu-304/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/anu-304/Leetcode/tree/master/0258-add-digits) |
+| [0398-random-pick-index](https://github.com/anu-304/Leetcode/tree/master/0398-random-pick-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/anu-304/Leetcode/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -79,4 +81,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anu-304/Leetcode/tree/master/0258-add-digits) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/anu-304/Leetcode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/anu-304/Leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
