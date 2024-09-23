@@ -13,11 +13,11 @@ class Solution {
         {
             s.append(last4);
         }
-        else
+        else  //for negative numbers
         {
             s.append((char)(last4 - 10 +'a'));
         }
-        num>>>=4;
+        num=num>>>4;  //unsigned right shift
        }
        return s.reverse().toString();
 
