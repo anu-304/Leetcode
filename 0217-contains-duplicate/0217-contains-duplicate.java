@@ -23,9 +23,9 @@ class Solution {
         return s.size()<nums.length;  */
 
         Set<Integer> s=new HashSet<>();
-        for(int i=0;i<nums.length;i++)
+        for(int i:nums)
         {
-            if(!s.add(nums[i]))
+            if(!s.add(i))
             {
                 return true;
             }
