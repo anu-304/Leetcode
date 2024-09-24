@@ -1,5 +1,20 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
+        //linear search
+        for(int i=0;i<matrix.length;i++)
+        {
+            for(int j=0;j<matrix[0].length;j++)
+            {
+                if(matrix[i][j]==target)
+                {
+                    return true;
+                }
+            }
+        }
+        return false;
+
+        
+       /* //binary search - since the given array is sorted
         int row= matrix.length;
         int col=matrix[0].length;
         int left=0;
@@ -23,6 +38,6 @@ class Solution {
                 right=mid-1;
             }
         }
-        return false;
+        return false; */
     }
 }
