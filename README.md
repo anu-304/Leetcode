@@ -45,6 +45,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anu-304/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/anu-304/Leetcode/tree/master/0264-ugly-number-ii) |
 ## Recursion
@@ -62,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anu-304/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/anu-304/Leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/anu-304/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/anu-304/Leetcode/tree/master/0136-single-number) |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
