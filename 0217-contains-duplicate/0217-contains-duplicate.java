@@ -19,14 +19,6 @@ class Solution {
         {
             s.add(nums[i]);
         }
-        if(nums.length==s.size())
-        {
-            return false;
-        }
-        else
-        {
-            return true;
-        }
-        
+        return s.size()<nums.length;
     }
 }
