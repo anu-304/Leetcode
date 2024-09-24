@@ -14,11 +14,22 @@ class Solution {
         
         }
         return false;*/
-        Set<Integer> s=new HashSet<>();
+        //most efficient
+        /*Set<Integer> s=new HashSet<>();
         for(int i=0;i<nums.length;i++)
         {
             s.add(nums[i]);
         }
-        return s.size()<nums.length;
+        return s.size()<nums.length;  */
+
+        Set<Integer> s=new HashSet<>();
+        for(int i=0;i<nums.length;i++)
+        {
+            if(!s.add(nums[i]))
+            {
+                return true;
+            }
+        }
+        return false;
     }
 }
