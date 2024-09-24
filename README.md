@@ -63,6 +63,7 @@
 | [0001-two-sum](https://github.com/anu-304/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/anu-304/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/anu-304/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/anu-304/Leetcode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anu-304/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/anu-304/Leetcode/tree/master/0179-largest-number) |
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -113,6 +114,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anu-304/Leetcode/tree/master/0136-single-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anu-304/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
 |  |
