@@ -1,5 +1,8 @@
 class Solution {
     public int singleNumber(int[] nums) {
+        
+        //use extra space
+        /*
         Map<Integer,Integer> m=new HashMap<>();
         for(int i=0;i<nums.length;i++)
         {
@@ -12,7 +15,14 @@ class Solution {
                 return (nums[i]);
             }
         }
-        return -1;
+        return -1; */
+        
+        int ans=0;
+        for(int i=0;i<nums.length;i++)
+        {
+            ans= ans^nums[i];
+        }
+        return ans;
 
     }
 }
