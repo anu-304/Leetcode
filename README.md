@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/anu-304/Leetcode/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anu-304/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/anu-304/Leetcode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/anu-304/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anu-304/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/anu-304/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/anu-304/Leetcode/tree/master/0066-plus-one) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anu-304/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/anu-304/Leetcode/tree/master/0179-largest-number) |
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
