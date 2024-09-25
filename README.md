@@ -26,6 +26,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/anu-304/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/anu-304/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/anu-304/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/anu-304/Leetcode/tree/master/0383-ransom-note) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1873-longest-nice-substring](https://github.com/anu-304/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -92,6 +93,7 @@
 | [0264-ugly-number-ii](https://github.com/anu-304/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anu-304/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/anu-304/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/anu-304/Leetcode/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/anu-304/Leetcode/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/anu-304/Leetcode/tree/master/0645-set-mismatch) |
@@ -182,5 +184,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/anu-304/Leetcode/tree/master/0383-ransom-note) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
