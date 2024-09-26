@@ -39,14 +39,14 @@ class Solution {
                 }
             }
         }
-        int[] res=new int[counter];
+        /*int[] res=new int[counter];
         for(int i=0;i<counter;i++)
         {
             if(ans[i]!=0){
             res[i]=ans[i];
             }
-        }
-        return res;
+        }*/
+        return Arrays.copyOfRange(ans,0,counter);
 
     } 
 }
