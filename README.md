@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/anu-304/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anu-304/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anu-304/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/anu-304/Leetcode/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/anu-304/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -30,6 +31,7 @@
 | [0344-reverse-string](https://github.com/anu-304/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/anu-304/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/anu-304/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/anu-304/Leetcode/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1873-longest-nice-substring](https://github.com/anu-304/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -60,6 +62,7 @@
 | [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anu-304/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/anu-304/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/anu-304/Leetcode/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
