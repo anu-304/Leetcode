@@ -10,7 +10,7 @@ class Solution {
             if(a.contains(ch))
             {
                 a.remove(ch);
-                l+=2;
+                l+=2;  // 2 letters
             }
             else{
                 a.add(ch);
