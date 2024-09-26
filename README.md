@@ -16,6 +16,7 @@
 | [0234-palindrome-linked-list](https://github.com/anu-304/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anu-304/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anu-304/Leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anu-304/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/anu-304/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -83,6 +84,7 @@
 | [0219-contains-duplicate-ii](https://github.com/anu-304/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/anu-304/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anu-304/Leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anu-304/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/anu-304/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/anu-304/Leetcode/tree/master/0645-set-mismatch) |
@@ -95,6 +97,7 @@
 | [0264-ugly-number-ii](https://github.com/anu-304/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anu-304/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/anu-304/Leetcode/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anu-304/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/anu-304/Leetcode/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/anu-304/Leetcode/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -152,6 +155,7 @@
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anu-304/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/anu-304/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anu-304/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,6 +170,7 @@
 | [0179-largest-number](https://github.com/anu-304/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/anu-304/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anu-304/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anu-304/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/anu-304/Leetcode/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
