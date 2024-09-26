@@ -22,17 +22,12 @@ class Solution {
             l+=1;
         }
         return l; */
-        int[] arr =new int[52];
+        int[] arr =new int[158];
         for(char ch:s.toCharArray())
         {
-            if(Character.isUpperCase(ch))
-            {
-                arr[ch-'A']++;
-            }
-            else
-            {
-                arr[ch-'a'+26]++;
-            }
+            
+            arr[ch-'A']++;
+           
         }
         int count=0;
         int odd=0;
