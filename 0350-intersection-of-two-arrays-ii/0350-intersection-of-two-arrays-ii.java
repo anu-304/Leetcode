@@ -10,16 +10,16 @@ class Solution {
                 {
                     al.add(nums1[i]);
                     k++;
-                    nums2[j] = Integer.MAX_VALUE; // Mark as used to avoid duplicates
+                    nums2[j]=Integer.MIN_VALUE; // Mark as used to avoid duplicates
                     break;
                 }
             }
         }
-        int[] result = new int[al.size()];
-        for (int i = 0; i < al.size(); i++) {
-            result[i] = al.get(i);
+        int[] res=new int[al.size()];
+        for(int i=0;i<al.size();i++)
+        {
+            res[i]=al.get(i);
         }
-
-        return result;
+        return res;
     }
 }
