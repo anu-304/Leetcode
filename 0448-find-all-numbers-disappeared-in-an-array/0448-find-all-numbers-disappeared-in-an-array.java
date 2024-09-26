@@ -6,9 +6,9 @@ class Solution {
         {
             s.add(i);
         }    
-        for(int i=1;i<=nums.length;i++)
+        for(int i=1;i<=nums.length;i++)  //iterate till n
         {
-            if(!s.contains(i))
+            if(!s.contains(i)) //if the element is not in set ,add to arraylist
             {
                 al.add(i);
             }
