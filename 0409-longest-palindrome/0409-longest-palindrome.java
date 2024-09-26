@@ -22,7 +22,7 @@ class Solution {
             l+=1;
         }
         return l; */
-        int[] arr =new int[158];
+        int[] arr =new int[58];
         for(char ch:s.toCharArray())
         {
             
