@@ -7,7 +7,7 @@ class Solution {
             for(int j=i+1;j<nums.size();j++)
             {
                 sum=nums.get(i)+nums.get(j);
-                if(sum<target )
+                if(sum<target && i<j)
                 {
                     count++;
                 }
