@@ -8,11 +8,14 @@ class Solution {
         {
             if(i>=0)
             {
-                carry=carry+ num1.charAt(i--) - '0';
+                carry=carry+ num1.charAt(i) - '0';
+                i--;
+
             }
             if(j>=0)
             {
-                carry=carry + num2.charAt(j--) - '0';
+                carry=carry + num2.charAt(j) - '0';
+                j--;
             }
             s.append(carry%10);
             carry=carry/10;
