@@ -34,6 +34,7 @@
 | [0389-find-the-difference](https://github.com/anu-304/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/anu-304/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/anu-304/Leetcode/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1873-longest-nice-substring](https://github.com/anu-304/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anu-304/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/anu-304/Leetcode/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Math
 |  |
@@ -58,6 +60,7 @@
 | [0268-missing-number](https://github.com/anu-304/Leetcode/tree/master/0268-missing-number) |
 | [0398-random-pick-index](https://github.com/anu-304/Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anu-304/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/anu-304/Leetcode/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
