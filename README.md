@@ -39,6 +39,7 @@
 | [0409-longest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/anu-304/Leetcode/tree/master/0415-add-strings) |
 | [0696-count-binary-substrings](https://github.com/anu-304/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0812-rotate-string](https://github.com/anu-304/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1873-longest-nice-substring](https://github.com/anu-304/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/anu-304/Leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
