@@ -58,6 +58,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anu-304/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/anu-304/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -120,6 +121,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/anu-304/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/anu-304/Leetcode/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/anu-304/Leetcode/tree/master/0729-my-calendar-i) |
+| [0739-daily-temperatures](https://github.com/anu-304/Leetcode/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/anu-304/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anu-304/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anu-304/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/anu-304/Leetcode/tree/master/0739-daily-temperatures) |
 ## Rolling Hash
 |  |
 | ------- |
