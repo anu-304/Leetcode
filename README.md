@@ -131,6 +131,7 @@
 | [0941-sort-array-by-parity](https://github.com/anu-304/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/anu-304/Leetcode/tree/master/1036-rotting-oranges) |
 | [1505-create-target-array-in-the-given-order](https://github.com/anu-304/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/anu-304/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anu-304/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2714-left-and-right-sum-differences](https://github.com/anu-304/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anu-304/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
