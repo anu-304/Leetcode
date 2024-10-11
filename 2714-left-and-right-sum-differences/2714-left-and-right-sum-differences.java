@@ -10,13 +10,23 @@ class Solution {
         {
             left[i]=nums[i-1]+left[i-1];
         }
-        for(int i=n-2;i>=0;i--)
+        /*for(int i=n-2;i>=0;i--)
         {
             right[i]=nums[i+1]+right[i+1];
         }
         for(int i=0;i<nums.length;i++)
         {
             diff[i]=Math.abs(left[i]-right[i]);
+        }*/
+        int total=0;
+        for(int i=0;i<nums.length;i++)
+        {
+            total+=nums[i];
+        }
+        for(int i=0;i<nums.length;i++)
+        {
+            int r=total - left[i] - nums[i];
+            diff[i] = Math.abs(left[i]-r);
         }
         return diff;
     }
