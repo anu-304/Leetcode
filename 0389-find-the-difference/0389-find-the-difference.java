@@ -4,16 +4,17 @@ class Solution {
         //make their ascii sum individually
         //and subtract to get result
         //return character of result
-        int s_sum=0,t_sum=0;
+        
+        int ts=0,ss=0;
         for(char a:s.toCharArray())
         {
-            s_sum= s_sum+(int)a;
+            ss = ss + (int)a;
         }
         for(char a:t.toCharArray())
         {
-            t_sum= t_sum+(int)a;
+            ts = ts + (int)a;
         }
-        return (char)(t_sum-s_sum);
+        return ((char)(ts-ss));
 
     }
 }
