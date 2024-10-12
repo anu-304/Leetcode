@@ -27,6 +27,7 @@
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/anu-304/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/anu-304/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anu-304/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -133,6 +134,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/anu-304/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anu-304/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anu-304/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2714-left-and-right-sum-differences](https://github.com/anu-304/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anu-304/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -224,12 +226,14 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/anu-304/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anu-304/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/anu-304/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0409-longest-palindrome) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anu-304/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -245,6 +249,7 @@
 | [0645-set-mismatch](https://github.com/anu-304/Leetcode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/anu-304/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anu-304/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anu-304/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
@@ -282,6 +287,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anu-304/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2714-left-and-right-sum-differences](https://github.com/anu-304/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Segment Tree
 |  |
