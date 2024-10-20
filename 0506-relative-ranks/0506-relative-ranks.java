@@ -28,11 +28,23 @@ class Solution {
     }
     public static int binsearch(int[] arr,int target)
     {
-        for(int i=0;i<arr.length;i++)
+        int n=arr.length;
+        int left=0;
+        int right=n-1;
+        while(left<=right)
         {
-            if(arr[i]==target)
+            int mid=(left+right)/2;
+            if(arr[mid]==target)
             {
-                return i;
+                return mid;
+            }
+            else if (arr[mid]<target)
+            {
+                left=mid +1;
+            }
+            else
+            {
+                right=mid-1;
             }
         }
         return -1;
