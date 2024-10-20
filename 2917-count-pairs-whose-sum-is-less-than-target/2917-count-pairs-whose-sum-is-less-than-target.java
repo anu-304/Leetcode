@@ -14,11 +14,16 @@ class Solution {
             }
         }
         return count;*/
+
+        //two pointers approach
         Collections.sort(nums);
-        int l=0;
+
         int n=nums.size();
-        int r=n-1;
         int count=0;
+
+        int l=0;        
+        int r=n-1;
+
         while(l<r)
         {
             int sum=nums.get(l)+nums.get(r);
