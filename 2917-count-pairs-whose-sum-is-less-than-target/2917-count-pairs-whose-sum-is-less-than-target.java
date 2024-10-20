@@ -1,6 +1,6 @@
 class Solution {
     public int countPairs(List<Integer> nums, int target) {
-        int count=0;
+       /* int count=0;
         for(int i=0;i<nums.size()-1;i++)
         {
             int sum=0;
@@ -13,8 +13,25 @@ class Solution {
                 }
             }
         }
-        return count;
-
-        
+        return count;*/
+        Collections.sort(nums);
+        int l=0;
+        int n=nums.size();
+        int r=n-1;
+        int count=0;
+        while(l<r)
+        {
+            int sum=nums.get(l)+nums.get(r);
+            if(sum<target)
+            {
+                count+=(r-l);
+                l++;
+            }
+            else
+            {
+                r--;
+            }
+        }
+        return count;    
     }
 }
