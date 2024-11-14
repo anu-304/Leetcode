@@ -96,6 +96,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anu-304/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anu-304/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/anu-304/Leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anu-304/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/anu-304/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -206,6 +207,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anu-304/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/anu-304/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -342,6 +344,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anu-304/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anu-304/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -350,6 +353,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anu-304/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anu-304/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Bucket Sort
 |  |
 | ------- |
