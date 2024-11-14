@@ -44,6 +44,7 @@
 | [0171-excel-sheet-column-number](https://github.com/anu-304/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/anu-304/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/anu-304/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/anu-304/Leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anu-304/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/anu-304/Leetcode/tree/master/0242-valid-anagram) |
@@ -135,6 +136,7 @@
 | [0149-max-points-on-a-line](https://github.com/anu-304/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anu-304/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/anu-304/Leetcode/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/anu-304/Leetcode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/anu-304/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/anu-304/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anu-304/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/anu-304/Leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/anu-304/Leetcode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/anu-304/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/anu-304/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Number Theory
@@ -307,6 +310,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/anu-304/Leetcode/tree/master/0212-word-search-ii) |
 | [1036-rotting-oranges](https://github.com/anu-304/Leetcode/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
 |  |
@@ -399,6 +403,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/anu-304/Leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/anu-304/Leetcode/tree/master/0212-word-search-ii) |
 ## Geometry
 |  |
 | ------- |
