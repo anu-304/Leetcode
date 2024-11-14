@@ -116,6 +116,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/anu-304/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/anu-304/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anu-304/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/anu-304/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/anu-304/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anu-304/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/anu-304/Leetcode/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/anu-304/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anu-304/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anu-304/Leetcode/tree/master/0219-contains-duplicate-ii) |
