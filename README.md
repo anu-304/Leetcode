@@ -37,6 +37,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anu-304/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anu-304/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/anu-304/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/anu-304/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/anu-304/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/anu-304/Leetcode/tree/master/0127-word-ladder) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anu-304/Leetcode/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/anu-304/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/anu-304/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/anu-304/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/anu-304/Leetcode/tree/master/0127-word-ladder) |
@@ -309,6 +311,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/anu-304/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/anu-304/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/anu-304/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/anu-304/Leetcode/tree/master/0643-maximum-average-subarray-i) |
