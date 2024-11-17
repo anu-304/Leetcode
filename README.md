@@ -188,6 +188,7 @@
 | [0645-set-mismatch](https://github.com/anu-304/Leetcode/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/anu-304/Leetcode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/anu-304/Leetcode/tree/master/0739-daily-temperatures) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anu-304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/anu-304/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/anu-304/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/anu-304/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -302,6 +303,7 @@
 | [0287-find-the-duplicate-number](https://github.com/anu-304/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anu-304/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/anu-304/Leetcode/tree/master/0729-my-calendar-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anu-304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anu-304/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
@@ -310,6 +312,7 @@
 | [0264-ugly-number-ii](https://github.com/anu-304/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anu-304/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/anu-304/Leetcode/tree/master/0506-relative-ranks) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anu-304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
@@ -345,6 +348,7 @@
 | [0076-minimum-window-substring](https://github.com/anu-304/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/anu-304/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/anu-304/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anu-304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1873-longest-nice-substring](https://github.com/anu-304/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Matrix
@@ -385,6 +389,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anu-304/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anu-304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/anu-304/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2714-left-and-right-sum-differences](https://github.com/anu-304/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -430,6 +435,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anu-304/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/anu-304/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anu-304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -468,4 +474,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anu-304/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anu-304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
