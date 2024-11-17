@@ -46,6 +46,7 @@
 | [0087-scramble-string](https://github.com/anu-304/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/anu-304/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anu-304/Leetcode/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/anu-304/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/anu-304/Leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/anu-304/Leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anu-304/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -204,6 +205,7 @@
 | [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/anu-304/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/anu-304/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/anu-304/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/anu-304/Leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/anu-304/Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/anu-304/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -428,6 +430,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/anu-304/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/anu-304/Leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anu-304/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anu-304/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -451,6 +454,7 @@
 | [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/anu-304/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/anu-304/Leetcode/tree/master/0052-n-queens-ii) |
+| [0126-word-ladder-ii](https://github.com/anu-304/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/anu-304/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/anu-304/Leetcode/tree/master/0212-word-search-ii) |
 ## Geometry
