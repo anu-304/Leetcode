@@ -41,6 +41,7 @@
 | [0032-longest-valid-parentheses](https://github.com/anu-304/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/anu-304/Leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/anu-304/Leetcode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/anu-304/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/anu-304/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/anu-304/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/anu-304/Leetcode/tree/master/0127-word-ladder) |
@@ -86,6 +87,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/anu-304/Leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/anu-304/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/anu-304/Leetcode/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -147,6 +149,7 @@
 | [0051-n-queens](https://github.com/anu-304/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/anu-304/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/anu-304/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anu-304/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
