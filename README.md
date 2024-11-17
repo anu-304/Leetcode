@@ -39,6 +39,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anu-304/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anu-304/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/anu-304/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/anu-304/Leetcode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/anu-304/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/anu-304/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/anu-304/Leetcode/tree/master/0127-word-ladder) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anu-304/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/anu-304/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/anu-304/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anu-304/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -120,6 +122,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anu-304/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anu-304/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/anu-304/Leetcode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/anu-304/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anu-304/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anu-304/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -294,6 +297,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/anu-304/Leetcode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/anu-304/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0409-longest-palindrome) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anu-304/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
