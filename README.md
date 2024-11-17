@@ -136,6 +136,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/anu-304/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/anu-304/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anu-304/Leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/anu-304/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/anu-304/Leetcode/tree/master/0066-plus-one) |
@@ -184,6 +185,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anu-304/Leetcode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anu-304/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/anu-304/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/anu-304/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/anu-304/Leetcode/tree/master/0127-word-ladder) |
@@ -327,6 +329,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/anu-304/Leetcode/tree/master/0212-word-search-ii) |
@@ -428,6 +431,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
 | [0140-word-break-ii](https://github.com/anu-304/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/anu-304/Leetcode/tree/master/0212-word-search-ii) |
 ## Geometry
