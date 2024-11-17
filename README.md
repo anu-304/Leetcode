@@ -40,6 +40,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anu-304/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/anu-304/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/anu-304/Leetcode/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/anu-304/Leetcode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/anu-304/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/anu-304/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/anu-304/Leetcode/tree/master/0127-word-ladder) |
