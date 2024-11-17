@@ -141,6 +141,7 @@
 | [0035-search-insert-position](https://github.com/anu-304/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/anu-304/Leetcode/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/anu-304/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/anu-304/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -436,6 +437,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/anu-304/Leetcode/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/anu-304/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/anu-304/Leetcode/tree/master/0212-word-search-ii) |
 ## Geometry
