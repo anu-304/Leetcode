@@ -438,6 +438,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/anu-304/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/anu-304/Leetcode/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/anu-304/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/anu-304/Leetcode/tree/master/0212-word-search-ii) |
 ## Geometry
