@@ -128,6 +128,7 @@
 | [0264-ugly-number-ii](https://github.com/anu-304/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anu-304/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/anu-304/Leetcode/tree/master/0392-is-subsequence) |
+| [1063-best-sightseeing-pair](https://github.com/anu-304/Leetcode/tree/master/1063-best-sightseeing-pair) |
 ## Recursion
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [0941-sort-array-by-parity](https://github.com/anu-304/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/anu-304/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/anu-304/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1063-best-sightseeing-pair](https://github.com/anu-304/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1505-create-target-array-in-the-given-order](https://github.com/anu-304/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anu-304/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1940-maximum-xor-for-each-query](https://github.com/anu-304/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
