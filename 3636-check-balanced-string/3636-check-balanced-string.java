@@ -1,5 +1,6 @@
 class Solution {
     public boolean isBalanced(String num) {
+        if(num.isEmpty() || num==null) return false;
         int n=num.length();
         int even=0;
         int odd=0;
