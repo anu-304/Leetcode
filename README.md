@@ -79,6 +79,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anu-304/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/anu-304/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/anu-304/Leetcode/tree/master/3451-string-compression-iii) |
+| [3636-check-balanced-string](https://github.com/anu-304/Leetcode/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
