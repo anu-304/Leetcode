@@ -113,6 +113,7 @@
 | [0398-random-pick-index](https://github.com/anu-304/Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anu-304/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/anu-304/Leetcode/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anu-304/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/anu-304/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/anu-304/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anu-304/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anu-304/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/anu-304/Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/anu-304/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -344,6 +346,7 @@
 | [0389-find-the-difference](https://github.com/anu-304/Leetcode/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/anu-304/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/anu-304/Leetcode/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anu-304/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/anu-304/Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/anu-304/Leetcode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/anu-304/Leetcode/tree/master/0941-sort-array-by-parity) |
