@@ -4,12 +4,13 @@ class Solution {
         int even=0;
         int odd=0;
         for(int i=0;i<n;i++){
+            int digit=num.charAt(i)-'0';
             if(i%2==0){
-                even+=num.charAt(i)-'0';
+                even+=digit;
 
             }
             else{
-                odd+=num.charAt(i)-'0';
+                odd+=digit;
             }
         }
         return even==odd;
