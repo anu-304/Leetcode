@@ -118,6 +118,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anu-304/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/anu-304/Leetcode/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anu-304/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0504-base-7](https://github.com/anu-304/Leetcode/tree/master/0504-base-7) |
 ## Dynamic Programming
 |  |
 | ------- |
