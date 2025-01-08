@@ -83,6 +83,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anu-304/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/anu-304/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anu-304/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/anu-304/Leetcode/tree/master/3451-string-compression-iii) |
 | [3636-check-balanced-string](https://github.com/anu-304/Leetcode/tree/master/3636-check-balanced-string) |
 ## Stack
@@ -221,6 +222,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2714-left-and-right-sum-differences](https://github.com/anu-304/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anu-304/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anu-304/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anu-304/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
@@ -273,10 +276,12 @@
 | [0214-shortest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/anu-304/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/anu-304/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anu-304/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anu-304/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -291,6 +296,7 @@
 | [0212-word-search-ii](https://github.com/anu-304/Leetcode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/anu-304/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/anu-304/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anu-304/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
 | ------- |
