@@ -82,6 +82,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anu-304/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1873-longest-nice-substring](https://github.com/anu-304/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/anu-304/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1970-sorting-the-sentence](https://github.com/anu-304/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anu-304/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/anu-304/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -371,6 +372,7 @@
 | [0506-relative-ranks](https://github.com/anu-304/Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/anu-304/Leetcode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/anu-304/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1970-sorting-the-sentence](https://github.com/anu-304/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anu-304/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anu-304/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
