@@ -74,6 +74,7 @@
 | [0415-add-strings](https://github.com/anu-304/Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/anu-304/Leetcode/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/anu-304/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0742-to-lower-case](https://github.com/anu-304/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/anu-304/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1524-string-matching-in-an-array](https://github.com/anu-304/Leetcode/tree/master/1524-string-matching-in-an-array) |
