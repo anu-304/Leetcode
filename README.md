@@ -516,4 +516,8 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anu-304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anu-304/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
