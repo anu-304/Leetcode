@@ -80,6 +80,7 @@
 | [1524-string-matching-in-an-array](https://github.com/anu-304/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anu-304/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anu-304/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/anu-304/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1873-longest-nice-substring](https://github.com/anu-304/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/anu-304/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/anu-304/Leetcode/tree/master/1970-sorting-the-sentence) |
@@ -411,6 +412,7 @@
 | [0347-top-k-frequent-elements](https://github.com/anu-304/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anu-304/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anu-304/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/anu-304/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anu-304/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Design
