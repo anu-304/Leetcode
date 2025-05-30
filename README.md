@@ -86,6 +86,7 @@
 | [1894-merge-strings-alternately](https://github.com/anu-304/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/anu-304/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anu-304/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anu-304/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/anu-304/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anu-304/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -222,6 +223,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anu-304/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anu-304/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1940-maximum-xor-for-each-query](https://github.com/anu-304/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anu-304/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anu-304/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anu-304/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/anu-304/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
