@@ -137,6 +137,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anu-304/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/anu-304/Leetcode/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/anu-304/Leetcode/tree/master/1070-convert-to-base-2) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anu-304/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 | [1036-rotting-oranges](https://github.com/anu-304/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/anu-304/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1063-best-sightseeing-pair](https://github.com/anu-304/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anu-304/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1505-create-target-array-in-the-given-order](https://github.com/anu-304/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/anu-304/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anu-304/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -367,6 +369,7 @@
 | [0044-wildcard-matching](https://github.com/anu-304/Leetcode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/anu-304/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0409-longest-palindrome) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anu-304/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anu-304/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/anu-304/Leetcode/tree/master/3195-separate-black-and-white-balls) |
