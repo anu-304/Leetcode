@@ -38,6 +38,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anu-304/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3195-separate-black-and-white-balls](https://github.com/anu-304/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anu-304/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anu-304/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/anu-304/Leetcode/tree/master/3451-string-compression-iii) |
 | [3636-check-balanced-string](https://github.com/anu-304/Leetcode/tree/master/3636-check-balanced-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anu-304/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -537,4 +539,8 @@
 | [0183-customers-who-never-order](https://github.com/anu-304/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/anu-304/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/anu-304/Leetcode/tree/master/0577-employee-bonus) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anu-304/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
