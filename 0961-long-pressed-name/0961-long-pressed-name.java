@@ -19,7 +19,7 @@ class Solution {
             }
         }
         while(j<m){
-            if(name.charAt(i-1) == typed.charAt(j)){
+            if(typed.charAt(j) == name.charAt(i-1)){
                 j++;
             }
             else{
