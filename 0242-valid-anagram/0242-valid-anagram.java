@@ -7,7 +7,7 @@ class Solution {
         for(char ch:t.toCharArray()){
             map.put(ch,map.getOrDefault(ch,0)-1);
         }
-        for(var a:map.entrySet()){
+        for(Map.Entry<Character,Integer> a:map.entrySet()){
             if(a.getValue()!=0){
                 return false;
             }
