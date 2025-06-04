@@ -25,7 +25,7 @@ class Solution {
             else{
                 return false;
             }
-        }
+        } 
         if(i<n) return false;
         return true;
     }
