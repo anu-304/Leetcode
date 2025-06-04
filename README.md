@@ -35,6 +35,7 @@
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/anu-304/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/anu-304/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0961-long-pressed-name](https://github.com/anu-304/Leetcode/tree/master/0961-long-pressed-name) |
 | [1894-merge-strings-alternately](https://github.com/anu-304/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anu-304/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -83,6 +84,7 @@
 | [0742-to-lower-case](https://github.com/anu-304/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/anu-304/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0961-long-pressed-name](https://github.com/anu-304/Leetcode/tree/master/0961-long-pressed-name) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/anu-304/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1524-string-matching-in-an-array](https://github.com/anu-304/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anu-304/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
