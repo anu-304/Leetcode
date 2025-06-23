@@ -196,6 +196,7 @@
 | [0041-first-missing-positive](https://github.com/anu-304/Leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/anu-304/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/anu-304/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/anu-304/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/anu-304/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -388,6 +389,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anu-304/Leetcode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/anu-304/Leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/anu-304/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/anu-304/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anu-304/Leetcode/tree/master/0242-valid-anagram) |
