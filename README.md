@@ -156,6 +156,7 @@
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/anu-304/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/anu-304/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anu-304/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anu-304/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anu-304/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/anu-304/Leetcode/tree/master/0140-word-break-ii) |
@@ -206,6 +207,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/anu-304/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anu-304/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anu-304/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anu-304/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/anu-304/Leetcode/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/anu-304/Leetcode/tree/master/0140-word-break-ii) |
