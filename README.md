@@ -205,6 +205,7 @@
 | [0056-merge-intervals](https://github.com/anu-304/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/anu-304/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/anu-304/Leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/anu-304/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anu-304/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -269,6 +270,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anu-304/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/anu-304/Leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/anu-304/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/anu-304/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/anu-304/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/anu-304/Leetcode/tree/master/0127-word-ladder) |
@@ -435,6 +437,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/anu-304/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/anu-304/Leetcode/tree/master/0174-dungeon-game) |
