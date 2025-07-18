@@ -134,6 +134,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/anu-304/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/anu-304/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/anu-304/Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/anu-304/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/anu-304/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/anu-304/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -155,6 +156,7 @@
 | [0032-longest-valid-parentheses](https://github.com/anu-304/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/anu-304/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/anu-304/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/anu-304/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/anu-304/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -185,6 +187,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anu-304/Leetcode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/anu-304/Leetcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anu-304/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anu-304/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
