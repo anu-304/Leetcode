@@ -83,6 +83,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/anu-304/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anu-304/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/anu-304/Leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/anu-304/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/anu-304/Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/anu-304/Leetcode/tree/master/0443-string-compression) |
@@ -119,6 +120,7 @@
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0232-implement-queue-using-stacks](https://github.com/anu-304/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anu-304/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/anu-304/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anu-304/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -316,6 +318,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anu-304/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/anu-304/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anu-304/Leetcode/tree/master/0739-daily-temperatures) |
 ## Rolling Hash
@@ -406,6 +409,7 @@
 | [0011-container-with-most-water](https://github.com/anu-304/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/anu-304/Leetcode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/anu-304/Leetcode/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/anu-304/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0409-longest-palindrome) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anu-304/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anu-304/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
