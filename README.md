@@ -95,6 +95,7 @@
 | [0961-long-pressed-name](https://github.com/anu-304/Leetcode/tree/master/0961-long-pressed-name) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/anu-304/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1524-string-matching-in-an-array](https://github.com/anu-304/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anu-304/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anu-304/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anu-304/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/anu-304/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -120,6 +121,7 @@
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anu-304/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/anu-304/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anu-304/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Simulation
 |  |
 | ------- |
@@ -402,6 +404,7 @@
 | [0179-largest-number](https://github.com/anu-304/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0409-longest-palindrome) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anu-304/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anu-304/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anu-304/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/anu-304/Leetcode/tree/master/3195-separate-black-and-white-balls) |
