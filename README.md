@@ -24,6 +24,7 @@
 | [0125-valid-palindrome](https://github.com/anu-304/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anu-304/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/anu-304/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/anu-304/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/anu-304/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anu-304/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anu-304/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -140,6 +141,7 @@
 | [0149-max-points-on-a-line](https://github.com/anu-304/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/anu-304/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/anu-304/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/anu-304/Leetcode/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anu-304/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/anu-304/Leetcode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/anu-304/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -286,6 +288,7 @@
 | [0140-word-break-ii](https://github.com/anu-304/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/anu-304/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/anu-304/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/anu-304/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anu-304/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anu-304/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anu-304/Leetcode/tree/master/0219-contains-duplicate-ii) |
