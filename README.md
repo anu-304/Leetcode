@@ -266,6 +266,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anu-304/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/anu-304/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anu-304/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2714-left-and-right-sum-differences](https://github.com/anu-304/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anu-304/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anu-304/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -407,6 +408,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anu-304/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anu-304/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anu-304/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3195-separate-black-and-white-balls](https://github.com/anu-304/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
@@ -430,6 +432,7 @@
 | [1970-sorting-the-sentence](https://github.com/anu-304/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anu-304/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anu-304/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anu-304/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
@@ -488,6 +491,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/anu-304/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2358-number-of-ways-to-split-array](https://github.com/anu-304/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anu-304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anu-304/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2714-left-and-right-sum-differences](https://github.com/anu-304/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Segment Tree
 |  |
