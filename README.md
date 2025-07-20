@@ -103,6 +103,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/anu-304/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1873-longest-nice-substring](https://github.com/anu-304/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/anu-304/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/anu-304/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1970-sorting-the-sentence](https://github.com/anu-304/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anu-304/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -155,6 +156,7 @@
 | [0504-base-7](https://github.com/anu-304/Leetcode/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/anu-304/Leetcode/tree/master/1070-convert-to-base-2) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anu-304/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/anu-304/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Dynamic Programming
 |  |
 | ------- |
