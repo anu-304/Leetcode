@@ -168,6 +168,7 @@
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/anu-304/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/anu-304/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/anu-304/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anu-304/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anu-304/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anu-304/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -224,6 +225,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/anu-304/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anu-304/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/anu-304/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anu-304/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anu-304/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anu-304/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
