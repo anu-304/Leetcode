@@ -84,6 +84,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/anu-304/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anu-304/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/anu-304/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/anu-304/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/anu-304/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anu-304/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/anu-304/Leetcode/tree/master/0415-add-strings) |
@@ -122,6 +123,7 @@
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0232-implement-queue-using-stacks](https://github.com/anu-304/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anu-304/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/anu-304/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/anu-304/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anu-304/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anu-304/Leetcode/tree/master/0739-daily-temperatures) |
@@ -196,6 +198,7 @@
 | [0206-reverse-linked-list](https://github.com/anu-304/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anu-304/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anu-304/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/anu-304/Leetcode/tree/master/0394-decode-string) |
 ## Memoization
 |  |
 | ------- |
