@@ -163,6 +163,7 @@
 | [0504-base-7](https://github.com/anu-304/Leetcode/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/anu-304/Leetcode/tree/master/1070-convert-to-base-2) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anu-304/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1635-number-of-good-pairs](https://github.com/anu-304/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/anu-304/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Dynamic Programming
 |  |
@@ -281,6 +282,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anu-304/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/anu-304/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/anu-304/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/anu-304/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anu-304/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anu-304/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/anu-304/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -332,6 +334,7 @@
 | [0645-set-mismatch](https://github.com/anu-304/Leetcode/tree/master/0645-set-mismatch) |
 | [0677-map-sum-pairs](https://github.com/anu-304/Leetcode/tree/master/0677-map-sum-pairs) |
 | [1039-find-the-town-judge](https://github.com/anu-304/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1635-number-of-good-pairs](https://github.com/anu-304/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1873-longest-nice-substring](https://github.com/anu-304/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anu-304/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -503,6 +506,7 @@
 | [0347-top-k-frequent-elements](https://github.com/anu-304/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anu-304/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anu-304/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/anu-304/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/anu-304/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anu-304/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
