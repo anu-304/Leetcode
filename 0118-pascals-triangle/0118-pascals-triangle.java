@@ -1,8 +1,8 @@
 class Solution {
-
-    public static List<Integer> generateRow(int n){
+    public List<Integer> generateRow(int n){
+        long ans = 1;
+    
         List<Integer> temp = new ArrayList<>();
-        long ans=1;
         temp.add(1);
         for(int i=1;i<n;i++){
             ans=ans*(n-i);
@@ -12,13 +12,11 @@ class Solution {
         return temp;
     }
 
-    
-
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> ans = new ArrayList<>();
+        List<List<Integer>> al = new ArrayList<>();
         for(int i=1;i<=numRows;i++){
-            ans.add(generateRow(i));
+            al.add(generateRow(i));
         }
-        return ans;
+        return al;
     }
 }
