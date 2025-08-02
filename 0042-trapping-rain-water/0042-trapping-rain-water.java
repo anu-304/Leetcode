@@ -1,22 +1,22 @@
 class Solution {
     public int trap(int[] height) {
         int n=height.length;
-        int i=0, j=n-1;
-        int left_max=height[0];
-        int right_max=height[j];
-        int sum=0;
-        while(i<j){
+        int trap=0;
+        int l=0, left_max=height[0];
+        int r=n-1, right_max=height[r];
+        while(l<r){
             if(left_max<=right_max){
-                sum += (left_max-height[i]);
-                i++;
-                left_max=Math.max(left_max,height[i]);
+                trap+=(left_max-height[l]);
+                l++;
+                left_max=Math.max(left_max, height[l]);
             }
             else{
-                sum+= (right_max-height[j]);
-                j--;
-                right_max = Math.max(right_max,height[j]);
+                trap+= (right_max-height[r]);
+                r--;
+                right_max = Math.max(right_max, height[r]);
             }
+
         }
-        return sum;
+        return trap;
     }
 }
