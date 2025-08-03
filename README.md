@@ -107,6 +107,7 @@
 | [1873-longest-nice-substring](https://github.com/anu-304/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/anu-304/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/anu-304/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/anu-304/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/anu-304/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anu-304/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -338,6 +339,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anu-304/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/anu-304/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1873-longest-nice-substring](https://github.com/anu-304/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/anu-304/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/anu-304/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anu-304/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Monotonic Stack
