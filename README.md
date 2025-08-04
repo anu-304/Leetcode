@@ -285,6 +285,7 @@
 | [1580-shuffle-the-array](https://github.com/anu-304/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/anu-304/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/anu-304/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/anu-304/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anu-304/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anu-304/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/anu-304/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -495,6 +496,7 @@
 | [0212-word-search-ii](https://github.com/anu-304/Leetcode/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anu-304/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1036-rotting-oranges](https://github.com/anu-304/Leetcode/tree/master/1036-rotting-oranges) |
+| [1677-matrix-diagonal-sum](https://github.com/anu-304/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/anu-304/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
