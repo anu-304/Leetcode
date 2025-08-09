@@ -150,6 +150,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anu-304/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/anu-304/Leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/anu-304/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/anu-304/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anu-304/Leetcode/tree/master/0070-climbing-stairs) |
@@ -233,6 +234,7 @@
 | [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/anu-304/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/anu-304/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/anu-304/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/anu-304/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anu-304/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/anu-304/Leetcode/tree/master/0056-merge-intervals) |
@@ -500,6 +502,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anu-304/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/anu-304/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/anu-304/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
