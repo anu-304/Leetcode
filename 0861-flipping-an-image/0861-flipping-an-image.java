@@ -1,10 +1,6 @@
 class Solution {
     public int[][] flipAndInvertImage(int[][] matrix) {
-
-        int n=matrix.length;
-        
         for(int i=0;i<matrix.length;i++){
-            
             int c=matrix[0].length - 1;
             for(int j=0;j<=c;j++,c--){
                 int t = 1 - matrix[i][j];
@@ -13,8 +9,6 @@ class Solution {
                 
             }
         }
-
-        
         return matrix;
     }
 }
