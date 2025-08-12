@@ -23,6 +23,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anu-304/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anu-304/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anu-304/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/anu-304/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anu-304/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anu-304/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/anu-304/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -246,6 +247,7 @@
 | [0074-search-a-2d-matrix](https://github.com/anu-304/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anu-304/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anu-304/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/anu-304/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anu-304/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/anu-304/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anu-304/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -471,6 +473,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/anu-304/Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/anu-304/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/anu-304/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/anu-304/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/anu-304/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anu-304/Leetcode/tree/master/0242-valid-anagram) |
