@@ -29,11 +29,11 @@ class Solution {
         }
         for(int r=0;r<row;r++){
             for(int c=0;c<col;c++){
-                if(board[r][c]>0){
-                    board[r][c]=1;
-                }
-                else{
+                if(board[r][c]==-1){
                     board[r][c]=0;
+                }
+                else if(board[r][c]==2){
+                    board[r][c]=1;
                 }
             }
         }
